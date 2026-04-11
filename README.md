@@ -5,9 +5,8 @@
 > *"知己知彼，百战不殆。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue.svg)](https://claude.ai)
-[![Nuwa](https://img.shields.io/badge/Nuwa-先秦诸子-red.svg)](https://github.com/Panmax)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将孙子兵法的战略思维、博弈智慧和系统性分析蒸馏为 Claude Code 可调用的思维技能。**
 
 从《孙子兵法》十三篇中提取"先胜后战"的决策框架、"避实击虚"的竞争策略、"因敌变化"的灵活应变，以简洁精炼的条件式判断帮助用户在竞争和博弈场景中做出战略级决策。
@@ -136,14 +135,12 @@ sunzi-skill/
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 ---
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
 
-*"兵无常势，水无常形。能因敌变化而取胜者，谓之神。"*
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
