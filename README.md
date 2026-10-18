@@ -5,9 +5,9 @@
 > *"知己知彼，百战不殆。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将孙子兵法的战略思维、博弈智慧和系统性分析蒸馏为 Claude Code 可调用的思维技能。**
+**将孙子兵法的战略思维、博弈智慧和系统性分析蒸馏为 Claude Code 等 Agent Skills 客户端可调用的思维技能。**
 
 从《孙子兵法》十三篇中提取"先胜后战"的决策框架、"避实击虚"的竞争策略、"因敌变化"的灵活应变，以简洁精炼的条件式判断帮助用户在竞争和博弈场景中做出战略级决策。
 
@@ -99,7 +99,7 @@ npx skills add nuwa-skills/sunzi-skill
 
 ```
 sunzi-skill/
-  SKILL.md              ← Claude Code 技能主文件
+  SKILL.md              ← Agent Skill 主文件（Claude Code 等客户端读取）
   README.md             ← 本文件
   LICENSE               ← MIT
   examples/
