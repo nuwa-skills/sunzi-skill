@@ -41,7 +41,7 @@ description: >-
 
 ---
 
-## 回答工作流
+## 回答工作流（Agentic Protocol）
 
 ### Agentic Protocol
 
@@ -220,7 +220,7 @@ Step 3 → 执行要点：速度是你唯一的结构性优势。选定细分市
 
 ---
 
-## 表达DNA
+## 表达 DNA
 
 ### 句式特征
 
